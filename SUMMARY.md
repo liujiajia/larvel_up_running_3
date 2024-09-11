@@ -1,11 +1,10 @@
 # Table of contents
 
-* [欢迎](README.md)
+## 序言 <a href="#preface" id="preface"></a>
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Untitled](README.md)
+* [Quickstart](preface/quickstart.md)
+* [Publish your docs](preface/publish-your-docs.md)
 
 ## Basics
 
