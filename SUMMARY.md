@@ -3,7 +3,7 @@
 ## 序言 <a href="#preface" id="preface"></a>
 
 * [Untitled](README.md)
-* [Waht This Book Is About](preface/quickstart.md)
+* [本书的内容](preface/quickstart.md)
 * [What This Book For](preface/publish-your-docs.md)
 * [How This Book Is Structured](preface/how-this-book-is-structured.md)
 

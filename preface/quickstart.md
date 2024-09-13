@@ -1,23 +1,9 @@
-# Quickstart
+# 本书的内容
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+这不是第一本关于Laravel的书，也不是最后一本。我不打算把本书写成讲解每行代码和每个模式的书。我不希望这本书的内容在Laravel发布新版本后就过时。相反，主要目的是为了给开发者一个高层次的概述和示例，以可以在任何基于Laravel构建的系统中使用Laravel的功能和子系统。
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Laravel是一个强大而灵活的PHP框架，它拥有蓬勃发展的社区以及完善的工具生态系统，它的吸引力和影响力在不断的增长。这本书是为已开发过网站程序想更好的学习Laravel的开者而准备。
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+Laravel的文档全面并且出色，如果你觉得我对某个特定主题阐述的不够深入，建议你访问官方在线文档，对特定主题做更深入的了解。
 
-### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false">
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+我认为你会发现这本书在高层次的概述和具体的代码之间达到了一个舒适的平衡。最后你应该能够轻松地从零开始用 Laravel 编写一个完整的应用程序。如果我做得好的话，你会很兴奋地去尝试。
